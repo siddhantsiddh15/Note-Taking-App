@@ -1,0 +1,36 @@
+com/nicheclout/NoteViewModel.java
+ com.nicheclout.NoteViewModel
+com/nicheclout/Note.java
+ com.nicheclout.Note
+com/nicheclout/NoteRepository.java
+ com.nicheclout.NoteRepository
+ com.nicheclout.NoteRepository$1
+ com.nicheclout.NoteRepository$DeleteNoteAsyncTask
+ com.nicheclout.NoteRepository$InsertNoteAsyncTask
+ com.nicheclout.NoteRepository$UpdateNoteAsyncTask
+com/nicheclout/NoteDatabase.java
+ com.nicheclout.NoteDatabase
+ com.nicheclout.NoteDatabase$1
+ com.nicheclout.NoteDatabase$PopulateDbAsyncTask
+com/nicheclout/notetake/BuildConfig.java
+ com.nicheclout.notetake.BuildConfig
+com/nicheclout/NoteDAO.java
+ com.nicheclout.NoteDAO
+com/nicheclout/AddNoteActivity.java
+ com.nicheclout.AddNoteActivity
+ com.nicheclout.AddNoteActivity$1
+ com.nicheclout.AddNoteActivity$2
+com/nicheclout/NoteAdapter.java
+ com.nicheclout.NoteAdapter
+ com.nicheclout.NoteAdapter$NoteHolder
+ com.nicheclout.NoteAdapter$NoteHolder$1
+ com.nicheclout.NoteAdapter$onItemClickListener
+com/nicheclout/UpdateActivity.java
+ com.nicheclout.UpdateActivity
+ com.nicheclout.UpdateActivity$1
+ com.nicheclout.UpdateActivity$2
+com/nicheclout/notetake/MainActivity.java
+ com.nicheclout.notetake.MainActivity
+ com.nicheclout.notetake.MainActivity$1
+ com.nicheclout.notetake.MainActivity$2
+ com.nicheclout.notetake.MainActivity$3
